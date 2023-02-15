@@ -26,6 +26,11 @@ public class Sorter {
             arr[min_idx] = arr[i];
             arr[i] = temp;
         }
+        public static void name() {
+            
+        
+
+        }
 
     }
 }
